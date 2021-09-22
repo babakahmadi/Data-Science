@@ -32,3 +32,4 @@
 [quantecon](https://python-programming.quantecon.org/intro.html)
 [Introduction to statistical learning](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf)
 [The elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf)
+[Introduction to probability for begginers](https://math.dartmouth.edu/~prob/prob/prob.pdf)
