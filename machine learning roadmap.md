@@ -26,3 +26,7 @@
  * Intro to Machine Learning (Bishop)
  * Intro to Statistical Learning (Tibshirani)
  * 
+
+## Very Good Resources
+
+[quantecon](https://python.quantecon.org/intro.html)
