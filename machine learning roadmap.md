@@ -29,4 +29,4 @@
 
 ## Very Good Resources
 
-[quantecon](https://python.quantecon.org/intro.html)
+[quantecon](https://python-programming.quantecon.org/intro.html)
